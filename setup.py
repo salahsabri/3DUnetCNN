@@ -7,7 +7,6 @@ setup(
     name='xlearn',
     author='Salah',
     packages=find_packages(),
-    version=open('VERSION').read().strip(),
     description = 'Keras 3D U-Net Convolution Neural Network (CNN) designed for medical image segmentation',
     license='BSD-3',
     platforms='Any',
